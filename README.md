@@ -1,4 +1,4 @@
-# Sweet-Chocolate-Using-TailwindCss
+# Sweet-Chocolate
 ![Screenshot (1477)](https://user-images.githubusercontent.com/66699500/123011008-4abc0000-d3dd-11eb-8655-eb00a7f8b9d7.png)
 ![Screenshot (1478)](https://user-images.githubusercontent.com/66699500/123011034-56a7c200-d3dd-11eb-9d1e-dacabb9672a9.png)
 ![Screenshot (1479)](https://user-images.githubusercontent.com/66699500/123011045-5ad3df80-d3dd-11eb-9116-e35f25deaf6a.png)
