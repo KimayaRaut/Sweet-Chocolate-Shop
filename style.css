@@ -1,0 +1,8 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background: transparent linear-gradient(180deg, #FFF 0%, gray 100%) 0% 0% no-repeat padding-box;
+}
+
+.object-cover .object-center .rounded{
+    overflow: hidden;
+}
